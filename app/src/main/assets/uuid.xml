@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<soapenv:Envelope
+	xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:rest="com.ibm.team.process.internal.common.rest"
+	xmlns:com.ibm.team.repository.common.services="http:///com/ibm/team/core/services.ecore"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<soapenv:Body>
+		<response>
+			<method>getAllProjectAreas</method>
+			<interface>com.ibm.team.process.internal.common.service.IProcessRestService</interface>
+			<returnValue xsi:type="com.ibm.team.repository.common.services:ComplexArrayDataArg">
+				<type>COMPLEX</type>
+				<values xsi:type="rest:ProjectAreaDTO">
+					<itemId>_JKngUHYOEeSWgYfzuUjxLw</itemId>
+					<stateId>_0AHdYN9IEeS6fJ8k4IsDPQ</stateId>
+					<name>JKE Banking（质量管理）</name>
+					<archived>false</archived>
+					<initialized>true</initialized>
+					<accessTime>2015-05-12T12:22:32.513Z</accessTime>
+					<description>此项目的用途是验证 JKE Banking 应用程序的质量。</description>
+					<summary>JKE Banking（质量管理）</summary>
+					<locale>zh_CN</locale>
+					<publicVisible>true</publicVisible>
+					<memberVisible>false</memberVisible>
+					<specificUserVisible>false</specificUserVisible>
+					<internalIsProcessProvider>false</internalIsProcessProvider>
+					<webUrl>https://localhost:9443/qm/web/projects/JKE%20Banking%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89</webUrl>
+					<projectLinks>
+						<itemId>_kvQhEnYOEeSWgYfzuUjxLw</itemId>
+						<label>JKE Banking（变更管理）</label>
+						<linkType>tests</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/ccm/process/project-areas/_EM3M4HYOEeSDIvS2P_N2Ig/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/ccm/oslc/contexts/_EM3M4HYOEeSDIvS2P_N2Ig/workitems/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/ccm/process/project-areas/_EM3M4HYOEeSDIvS2P_N2Ig</targetURL>
+					</projectLinks>
+					<projectLinks>
+						<itemId>_k-yx4nYOEeSWgYfzuUjxLw</itemId>
+						<label>JKE Banking（变更管理）</label>
+						<linkType>tracked-by</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/ccm/process/project-areas/_EM3M4HYOEeSDIvS2P_N2Ig/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/ccm/oslc/contexts/_EM3M4HYOEeSDIvS2P_N2Ig/workitems/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/ccm/process/project-areas/_EM3M4HYOEeSDIvS2P_N2Ig</targetURL>
+					</projectLinks>
+					<projectLinks>
+						<itemId>_jTz2wHYOEeSWgYfzuUjxLw</itemId>
+						<label>JKE Banking（需求管理）</label>
+						<linkType>validates</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/rm/process/project-areas/_CSDtEHYOEeSpJo6XYKo6zQ/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/rm/oslc_rm/_CSDtEHYOEeSpJo6XYKo6zQ/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/rm/process/project-areas/_CSDtEHYOEeSpJo6XYKo6zQ</targetURL>
+					</projectLinks>
+				</values>
+				<values xsi:type="rest:ProjectAreaDTO">
+					<itemId>_DxLEEsmMEeS4CLt9yl3SnA</itemId>
+					<stateId>_O3HdwMmMEeS4CLt9yl3SnA</stateId>
+					<name>Test (质量管理)</name>
+					<archived>false</archived>
+					<initialized>true</initialized>
+					<accessTime>2015-05-12T12:22:32.514Z</accessTime>
+					<description></description>
+					<summary>Test (质量管理)</summary>
+					<locale>zh</locale>
+					<publicVisible>false</publicVisible>
+					<memberVisible>true</memberVisible>
+					<specificUserVisible>false</specificUserVisible>
+					<internalIsProcessProvider>false</internalIsProcessProvider>
+					<webUrl>https://localhost:9443/qm/web/projects/Test%20(%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86)</webUrl>
+					<projectLinks>
+						<itemId>_OogaAMmMEeS4CLt9yl3SnA</itemId>
+						<label>Test (变更管理)</label>
+						<linkType>tests</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/ccm/process/project-areas/_4_jUkMmLEeSlbPzE7tcarg/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/ccm/oslc/contexts/_4_jUkMmLEeSlbPzE7tcarg/workitems/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/ccm/process/project-areas/_4_jUkMmLEeSlbPzE7tcarg</targetURL>
+					</projectLinks>
+					<projectLinks>
+						<itemId>_O3AwEsmMEeS4CLt9yl3SnA</itemId>
+						<label>Test (变更管理)</label>
+						<linkType>tracked-by</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/ccm/process/project-areas/_4_jUkMmLEeSlbPzE7tcarg/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/ccm/oslc/contexts/_4_jUkMmLEeSlbPzE7tcarg/workitems/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/ccm/process/project-areas/_4_jUkMmLEeSlbPzE7tcarg</targetURL>
+					</projectLinks>
+					<projectLinks>
+						<itemId>_Oz1gQsmMEeS4CLt9yl3SnA</itemId>
+						<label>Test (需求)</label>
+						<linkType>validates</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/rm/process/project-areas/_3L6zwMmLEeSzEPuMmfxZvg/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/rm/oslc_rm/_3L6zwMmLEeSzEPuMmfxZvg/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/rm/process/project-areas/_3L6zwMmLEeSzEPuMmfxZvg</targetURL>
+					</projectLinks>
+				</values>
+				<values xsi:type="rest:ProjectAreaDTO">
+					<!-- itemId是UUID-->
+					<itemId>_ekfXYt9KEeS6fJ8k4IsDPQ</itemId>
+					<stateId>_jy1ZoN9MEeS6fJ8k4IsDPQ</stateId>
+					<name>JKE Banking-2（质量管理）</name>
+					<archived>false</archived>
+					<initialized>true</initialized>
+					<accessTime>2015-05-12T12:22:32.515Z</accessTime>
+					<description>此项目的用途是验证 JKE Banking 应用程序的质量。</description>
+					<summary>JKE Banking-2（质量管理）</summary>
+					<locale>zh_CN</locale>
+					<publicVisible>true</publicVisible>
+					<memberVisible>false</memberVisible>
+					<specificUserVisible>false</specificUserVisible>
+					<internalIsProcessProvider>false</internalIsProcessProvider>
+					<webUrl>https://localhost:9443/qm/web/projects/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89</webUrl>
+					<projectLinks>
+						<itemId>_nOodAt9KEeS6fJ8k4IsDPQ</itemId>
+						<label>JKE Banking-2（变更管理）</label>
+						<linkType>tests</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/ccm/process/project-areas/_bNJBEt9KEeSm0o8DOhT27g/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/ccm/oslc/contexts/_bNJBEt9KEeSm0o8DOhT27g/workitems/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/ccm/process/project-areas/_bNJBEt9KEeSm0o8DOhT27g</targetURL>
+					</projectLinks>
+					<projectLinks>
+						<itemId>_nRZdIt9KEeS6fJ8k4IsDPQ</itemId>
+						<label>JKE Banking-2（变更管理）</label>
+						<linkType>tracked-by</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/ccm/process/project-areas/_bNJBEt9KEeSm0o8DOhT27g/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/ccm/oslc/contexts/_bNJBEt9KEeSm0o8DOhT27g/workitems/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/ccm/process/project-areas/_bNJBEt9KEeSm0o8DOhT27g</targetURL>
+					</projectLinks>
+					<projectLinks>
+						<itemId>_nKtmUt9KEeS6fJ8k4IsDPQ</itemId>
+						<label>JKE Banking-2（需求管理）</label>
+						<linkType>validates</linkType>
+						<targetConsumerRegistryURL>https://localhost:9443/rm/process/project-areas/_ZeYZMt9KEeSbHLwvkpgJWQ/links</targetConsumerRegistryURL>
+						<targetServicesURL>https://localhost:9443/rm/oslc_rm/_ZeYZMt9KEeSbHLwvkpgJWQ/services.xml</targetServicesURL>
+						<targetURL>https://localhost:9443/rm/process/project-areas/_ZeYZMt9KEeSbHLwvkpgJWQ</targetURL>
+					</projectLinks>
+				</values>
+			</returnValue>
+		</response>
+	</soapenv:Body>
+</soapenv:Envelope>

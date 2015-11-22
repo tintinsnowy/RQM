@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <feed>
+<title type="text">项目区域 JKE Banking-2（质量管理） 的 testplan ATOM 订阅源</title>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan</id>
+<link href="https://localhost:9443/qm/web/console/" rel="alternate" />
+<link rel="self" href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan?abbrivate=false" />
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:7</id>
+<updated>2015-04-10T06:35:54.527Z</updated>
+<title type="text">开发测试</title>
+<summary type="text">包括开发团队在每个开发段进行的测试</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:7" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestPlan&id=7" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:10</id>
+<updated>2015-05-02T10:41:50.106Z</updated>
+<title type="text">主测试策略</title>
+<summary type="text">定义对于 JKE Banking 发行版 1 的测试发行版 1 中添加的重要功能包括 Money that Matters 计划，帐户持有者可以按照此计划选择改变他们的投资红利的用途，将其用于需要援助的事业。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:10" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestPlan&id=10" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:8</id>
+<updated>2015-05-02T10:41:50.781Z</updated>
+<title type="text">系统验证</title>
+<summary type="text">用于系统验证的正式测试计划。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:8" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestPlan&id=8" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:9</id>
+<updated>2015-05-02T10:41:50.820Z</updated>
+<title type="text">用户验收</title>
+<summary type="text">有关用户验收测试和注销的策略文档</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testplan/urn:com.ibm.rqm:testplan:9" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestPlan&id=9" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ </feed>
