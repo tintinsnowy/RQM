@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_marginLeft="0dip"
+        android:layout_marginRight="0dip"
+        android:layout_gravity="top">
+
+        <ImageView
+            android:id="@+id/background_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="200dip"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/ic_user_background" />
+
+        <com.ibm.rqm.utils.CircularImage
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:id="@+id/info_header"
+            android:layout_alignLeft="@id/background_btn"
+            android:layout_marginLeft="10dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="140dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/info_userName"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/info_header"
+            android:layout_alignBottom="@id/info_header"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:id="@+id/line1"
+            android:background="@drawable/line"
+            android:layout_below="@id/info_header"/>
+
+        <TextView
+            android:id="@+id/project_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line1"
+
+            android:typeface="sans"
+            android:textSize="20sp"/>
+        <TextView
+            android:id="@+id/plan_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/project_num"
+            android:layout_marginTop="50dip"
+            android:typeface="sans"
+            android:textSize="20sp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:id="@+id/line2"
+            android:background="@drawable/line"
+            android:layout_below="@id/plan_num"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Logout"
+        android:layout_gravity="bottom"
+        android:background="#B0E0E6"
+        android:id="@+id/logout_btn"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="10dp"
+        android:elevation="5dp"/>
+
+</FrameLayout><!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/src/main/res/layout/activity_my_info.xml -->

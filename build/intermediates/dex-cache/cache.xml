@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\exploded-aar\br.com.liveo\navigationdrawer-material\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e9e57adf1c7f791cd18a30e179a6f520fe8587b">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\classes-56b9140118d8662b78e0cdce2144a07439e3f5f2.jar" />
+    </item>
+    <item
+        jar="F:\Users\JACK_2\android-sdks\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-e6665c0a0da0739c9ee89777010d8c25035621f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\classes-f53585f30aa715652530ecdd287693969842d651.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\classes-82608596a7294f709621fb27b09bed60f7466cc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-c175f0201ab85edc981d2ab80a4f3ded4516617b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\exploded-aar\com.raizlabs.android\DBFlow\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d4d8fa6a6d5466be2adc605e809396d0b293c0e">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\classes-a8a8eb899fa037c00fc90ad051900d93f676e00a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\classes-521ba29d364159fda32d4ceaa8b8b79200795e0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jack\.gradle\caches\modules-2\files-2.1\com.raizlabs.android\DBFlow-Core\2.0.0\fb679995664e3968973172f8c13227ae31052bd7\DBFlow-Core-2.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb679995664e3968973172f8c13227ae31052bd7">
+        <dex dex="C:\Users\Jack\Desktop\RQM\RQM\app\build\intermediates\pre-dexed\debug\DBFlow-Core-2.0.0-f47f27cfca3eac6641af8d6d8cacffa4a4f49e12.jar" />
+    </item>
+
+</items>

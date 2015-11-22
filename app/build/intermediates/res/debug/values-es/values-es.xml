@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values-es/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="add">Agregar</string>
+    <string name="app_name">nDrawer</string>
+    <!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/build/intermediates/exploded-aar/br.com.liveo/navigationdrawer-material/1.0.5/res/values-es/values.xml -->
+    <eat-comment/>
+    <string name="clear">""</string>
+    <!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="drafts">Borradores</string>
+    <!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/build/intermediates/exploded-aar/br.com.liveo/navigationdrawer-material/1.0.5/res/values-es/values.xml -->
+    <eat-comment/>
+    <string name="drawer_close">Cerrar Menú</string>
+    <string name="drawer_open">Abrir Menú</string>
+    <!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="inbox">Inbox</string>
+    <string name="more_markers">+ Marcadores</string>
+    <string name="open_settings">Abrir configuración</string>
+    <string name="open_user_profile">Abrir perfil de usuario</string>
+    <string name="search">Buscar</string>
+    <string name="sent_mail">Mensajes Enviados</string>
+    <string name="settings">Configuración</string>
+    <string name="sign_in">Sign in</string>
+    <string name="spam">Spam</string>
+    <string name="starred">Favorito</string>
+    <string name="trash">Papelera</string>
+</resources>

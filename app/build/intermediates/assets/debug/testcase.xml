@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <feed>
+<title type="text">项目区域 JKE Banking-2（质量管理） 的 testcase ATOM 订阅源</title>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase</id>
+<link href="https://localhost:9443/qm/web/console/" rel="alternate" />
+<link rel="self" href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase?abbrivate=false" />
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:8</id>
+<updated>2015-04-10T06:34:00.773Z</updated>
+<title type="text">验证红利转移频率</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:8" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=8" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:9</id>
+<updated>2015-04-10T06:34:02.560Z</updated>
+<title type="text">捐赠者将资金存入统筹援助基金</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:9" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=9" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:10</id>
+<updated>2015-04-10T06:34:04.650Z</updated>
+<title type="text">按百分比分配红利</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:10" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=10" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:11</id>
+<updated>2015-04-10T06:34:05.831Z</updated>
+<title type="text">处理硬拷贝请求</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:11" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=11" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:12</id>
+<updated>2015-04-10T06:34:08.081Z</updated>
+<title type="text">处理电子邮件请求</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:12" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=12" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:13</id>
+<updated>2015-04-10T06:34:08.394Z</updated>
+<title type="text">组织必须指出期望获得的资金额</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:13" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=13" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:14</id>
+<updated>2015-04-10T06:34:10.118Z</updated>
+<title type="text">按金额和频率来分配红利</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:14" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=14" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:15</id>
+<updated>2015-04-10T06:34:14.419Z</updated>
+<title type="text">组织可以通过初始请求来申请</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:15" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=15" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:16</id>
+<updated>2015-04-10T06:34:17.632Z</updated>
+<title type="text">捐赠者可以选择支持某个组织</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:16" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=16" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:17</id>
+<updated>2015-04-10T06:34:17.789Z</updated>
+<title type="text">客户可以指定组织</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:17" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=17" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:18</id>
+<updated>2015-04-10T06:34:18.047Z</updated>
+<title type="text">捐赠者选择组织</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:18" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=18" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:19</id>
+<updated>2015-04-10T06:34:19.687Z</updated>
+<title type="text">组织必须提供正当的理由说明需要资金的原因</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:19" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=19" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:20</id>
+<updated>2015-04-10T06:34:20.356Z</updated>
+<title type="text">捐赠金额限制</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:20" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=20" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:21</id>
+<updated>2015-04-10T06:34:20.584Z</updated>
+<title type="text">捐赠者将接收到确认信息和收据</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:21" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=21" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:22</id>
+<updated>2015-04-10T06:34:22.751Z</updated>
+<title type="text">组织可以申请</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:22" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=22" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:23</id>
+<updated>2015-04-10T06:34:23.589Z</updated>
+<title type="text">捐赠者红利分配符合规定的条件</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:23" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=23" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:24</id>
+<updated>2015-04-10T06:34:23.937Z</updated>
+<title type="text">JKE 红利协调者对在线请求作出响应</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:24" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=24" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:25</id>
+<updated>2015-04-10T06:34:24.514Z</updated>
+<title type="text">按百分比分配红利</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:25" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=25" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:26</id>
+<updated>2015-04-10T06:34:24.866Z</updated>
+<title type="text">将红利分配给单项事业</title>
+<summary type="text">用户应该能够指定单个接受援助的事业以及客户要捐赠的红利所占的百分比。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:26" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=26" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:27</id>
+<updated>2015-04-10T06:34:25.750Z</updated>
+<title type="text">支票帐户余额</title>
+<summary type="text">用户应当能够检查他们拥有的财产中任何帐户的当前余额。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:27" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=27" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:28</id>
+<updated>2015-04-10T06:34:25.938Z</updated>
+<title type="text">关闭帐户</title>
+<summary type="text">用户应当能够指定使他们拥有的财产中的任何帐户关闭并将余额转移到指定帐户。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:28" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=28" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:29</id>
+<updated>2015-04-10T06:34:28.396Z</updated>
+<title type="text">对信用卡费用提出争议</title>
+<summary type="text">用户应当能够记录对他们不理解或者不同意的任何信用卡费用提出争议的请求。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:29" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=29" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:30</id>
+<updated>2015-04-10T06:34:31.581Z</updated>
+<title type="text">在线支付帐单</title>
+<summary type="text">用户应当能够使用任何资产帐户为所指定的电子票据付款。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:30" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=30" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:31</id>
+<updated>2015-04-10T06:34:32.883Z</updated>
+<title type="text">请求增加贷款</title>
+<summary type="text">用户应当能够请求增加可用于任何信用帐户的贷款。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:31" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=31" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:32</id>
+<updated>2015-04-10T06:34:33.456Z</updated>
+<title type="text">（QM 教程）将红利分配给多项事业</title>
+<summary type="text">用户应当能够选择将附息帐户中的红利按一定百分比分配给多项事业。所分配的总百分比应当由所有事业平均分配。</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:32" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=32" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:33</id>
+<updated>2015-04-10T06:34:35.897Z</updated>
+<title type="text">货币的一致显示</title>
+<summary type="text">所显示的所有货币应当对货币符号和千位分隔符使用一致的格式，并且始终显示两个小数位</summary>
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:33" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=33" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:34</id>
+<updated>2015-04-10T06:34:36.416Z</updated>
+<title type="text">测试验证贷款条款和金额</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:34" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=34" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:35</id>
+<updated>2015-04-10T06:34:37.422Z</updated>
+<title type="text">捐赠者可修改移动设置</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:35" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=35" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:36</id>
+<updated>2015-04-10T06:34:38.082Z</updated>
+<title type="text">移动捐赠者可进行捐赠</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:36" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=36" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ <entry>
+<id>https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:37</id>
+<updated>2015-04-10T06:34:38.761Z</updated>
+<title type="text">移动捐赠者可向附近慈善机构进行捐赠</title>
+<summary type="text" />
+<link href="https://localhost:9443/qm/service/com.ibm.rqm.integration.service.IIntegrationService/resources/JKE+Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89/testcase/urn:com.ibm.rqm:testcase:37" rel="alternate" type="application/xml" title="" />
+<link href="https://localhost:9443/qm/web/console/JKE%20Banking-2%EF%BC%88%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86%EF%BC%89#action=com.ibm.rqm.planning.home.actionDispatcher&subAction=viewTestCase&id=37" rel="enclosure" type="text/html" title="Web Console" />
+ </entry>
+ </feed>

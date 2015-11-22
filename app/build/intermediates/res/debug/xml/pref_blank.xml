@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<!--why the app ANR without calling "addPreferencesFromResource(R.xml.pref_blank);"-->
+</PreferenceScreen><!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/src/main/res/xml/pref_blank.xml -->

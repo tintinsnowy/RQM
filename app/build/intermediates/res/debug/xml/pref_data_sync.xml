@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Preference
+        android:dependency="notifications_enable"
+        android:key="notification_time"
+        android:title="@string/pref_title_sync_time"/>
+
+
+</PreferenceScreen>
+<!-- From: file:/C:/Users/Jack/Desktop/RQM/RQM/app/src/main/res/xml/pref_data_sync.xml -->
